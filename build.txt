@@ -1,0 +1,3 @@
+author = Nagu
+version = 0.1
+displayName = Terraria GoGo
