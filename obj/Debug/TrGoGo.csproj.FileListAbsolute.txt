@@ -1,0 +1,11 @@
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\obj\Debug\TrGoGo.csprojResolveAssemblyReference.cache
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\obj\Debug\TrGoGo.csproj.CoreCompileInputs.cache
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\TrGoGo.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\TrGoGo.pdb
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\bin\Debug\Terraria.exe
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\obj\Debug\TrGoGo.dll
+C:\Users\이동현\Documents\My Games\Terraria\ModLoader\Mod Sources\TrGoGo\obj\Debug\TrGoGo.pdb

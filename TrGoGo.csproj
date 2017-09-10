@@ -33,16 +33,33 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Items\BluePrintBench.cs" />
+    <Compile Include="Items\Emer_Rous.cs" />
     <Compile Include="Items\IronBench.cs" />
-    <Compile Include="Items\Q.cs" />
+    <Compile Include="Items\IronBench2.cs" />
+    <Compile Include="Items\Iron_Crossbow.cs" />
+    <Compile Include="Items\Iron_Revolver.cs" />
+    <Compile Include="Items\Iron_Revolver2.cs" />
+    <Compile Include="Items\Lancer_medal.cs" />
+    <Compile Include="Items\Nereus_Magnum.cs" />
+    <Compile Include="Items\Ranger_medal.cs" />
+    <Compile Include="Items\RefildMk2.cs" />
+    <Compile Include="Items\Sorcerer_medal.cs" />
     <Compile Include="Items\StoneBench.cs" />
-    <Compile Include="Items\T.cs" />
+    <Compile Include="Items\Thrower_medal.cs" />
+    <Compile Include="Items\Warrior_medal.cs" />
+    <Compile Include="Items\White_lance.cs" />
     <Compile Include="Items\WoodBench.cs" />
     <Compile Include="Items\WoodMedal.cs" />
+    <Compile Include="Items\Wood_Bullet.cs" />
+    <Compile Include="Items\Wood_Crossbow.cs" />
+    <Compile Include="Items\Wrevol.cs" />
+    <Compile Include="Items\Xenic_Rifle.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Projectiles\Q.cs" />
+    <Compile Include="Projectiles\White_lance.cs" />
     <Compile Include="Tiles\WoodBench.cs" />
     <Compile Include="TrGoGo.cs" />
   </ItemGroup>
