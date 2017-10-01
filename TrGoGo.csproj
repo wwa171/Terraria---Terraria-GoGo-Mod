@@ -42,9 +42,13 @@
     <Compile Include="Items\Iron_Revolver2.cs" />
     <Compile Include="Items\Lancer_medal.cs" />
     <Compile Include="Items\Nereus_Magnum.cs" />
+    <Compile Include="Items\Nerous_Blade.cs" />
+    <Compile Include="Items\Prous_Blade.cs" />
+    <Compile Include="Items\Quadro_Blaster.cs" />
     <Compile Include="Items\Ranger_medal.cs" />
     <Compile Include="Items\RefildMk2.cs" />
     <Compile Include="Items\Sorcerer_medal.cs" />
+    <Compile Include="Items\Soul_of_Mind.cs" />
     <Compile Include="Items\StoneBench.cs" />
     <Compile Include="Items\Thrower_medal.cs" />
     <Compile Include="Items\Warrior_medal.cs" />
@@ -55,6 +59,7 @@
     <Compile Include="Items\Wood_Crossbow.cs" />
     <Compile Include="Items\Wrevol.cs" />
     <Compile Include="Items\Xenic_Rifle.cs" />
+    <Compile Include="Items\Xenic_Sword.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
