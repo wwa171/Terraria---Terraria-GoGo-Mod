@@ -19,6 +19,7 @@ namespace TrGoGo.Items
 			item.useStyle = 5;
 			item.useAnimation = 10;
 			item.damage = 30;
+		    item.crit = 15;
 			item.knockBack = 7;
 			item.width = 20;
 			item.height = 20;

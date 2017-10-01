@@ -19,11 +19,11 @@ namespace TrGoGo.Items
 		{
 			item.useStyle = 5;
 			item.useAnimation = 9;
-			item.damage = 25;
+			item.damage = 30;
 			item.knockBack = 1;
 			item.width = 20;
 			item.height = 20;
-			item.useTime = 9;
+			item.useTime = 7;
 		    item.ranged = true;
 			item.noMelee = true;
 			item.autoReuse = true;

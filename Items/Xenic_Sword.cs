@@ -16,12 +16,12 @@ namespace TrGoGo.Items
 		}
 		public override void SetDefaults()
 		{
-			item.damage = 20;
+			item.damage = 40;
 			item.melee = true;
 			item.width = 30;
 			item.height = 30;
-			item.useTime = 20;
-			item.useAnimation = 20;
+			item.useTime = 25;
+			item.useAnimation = 25;
 			item.useStyle = 1;
 			item.knockBack = 6;
 			item.value = 120000;
